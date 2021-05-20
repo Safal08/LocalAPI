@@ -1,0 +1,9 @@
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\bin\Debug\netstandard2.0\LocalAppAPI.Doman.deps.json
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\bin\Debug\netstandard2.0\LocalAppAPI.Doman.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\bin\Debug\netstandard2.0\LocalAppAPI.Doman.pdb
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.csprojAssemblyReference.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.AssemblyInfoInputs.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.AssemblyInfo.cs
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.csproj.CoreCompileInputs.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Doman\obj\Debug\netstandard2.0\LocalAppAPI.Doman.pdb

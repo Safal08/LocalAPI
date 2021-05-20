@@ -1,0 +1,14 @@
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.csprojAssemblyReference.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.AssemblyInfo.cs
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.Services.deps.json
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.Services.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.Services.pdb
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.DataAccess.Dapper.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.Doman.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.DataAccess.Dapper.pdb
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\bin\Debug\netstandard2.0\LocalAppAPI.Doman.pdb
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.csproj.CopyComplete
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.dll
+C:\Users\Safal\source\repos\LocalAppAPI\LocalAppAPI.Services\obj\Debug\netstandard2.0\LocalAppAPI.Services.pdb
